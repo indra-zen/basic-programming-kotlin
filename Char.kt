@@ -9,3 +9,14 @@ fun main() {
     println("Vocal " + vocal--)
     println("Vocal " + vocal--)
 }
+ 
+/*
+   output:
+       Vocal A
+       Vocal B
+       Vocal C
+       Vocal D
+       Vocal C
+       Vocal B
+       Vocal A
+*/
